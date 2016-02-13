@@ -1,0 +1,90 @@
+A.menulink {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-family:arial;
+	font-size:12px;
+	color: #000000;
+        background-color:#ADFF2F;         
+	BORDER: none;
+	border: solid 1px #00FF00;
+}
+
+A.menulinkLeft {
+	display: block;
+	width: 110px;
+	text-align: left;
+	text-decoration: none;
+	font-family:arial;
+	font-size:12px;
+	color: #000000;
+        background-color:#ADFF2F;
+	BORDER: none;
+	border: solid 1px #00FF00;
+}
+
+
+A.menulink:hover {
+	border: solid 1px #6100C1;
+	background-color:#F0E1FF;
+}
+
+A.menulinkLeft:hover {
+	border: solid 1px #6100C1;
+	background-color:#F0E1FF;
+}
+
+
+
+.oznam {font-style: oblique;
+        font-size:12px;
+       }
+.error {color: yellow;
+        font-weight: bold;
+        font-size:12px;}
+.login {
+    font-size:12px;
+}    
+.sign {
+        font-size:12px;
+      	background-color:green;
+      	color:white;
+}
+
+.main {
+    	background-color:cyan;
+}
+
+.left {
+    	      	background-color:green;
+}
+.top {
+    	      	background-color:green;
+                 color:white;
+}
+
+a.adminLink:link {color: #FFFFFF}
+a.adminLink:visited {color: #FFFFFF}
+a.adminLink:hover {color: #FFFF00}
+a.adminLink:active {color: #FFF00}
+
+a.headerLink:link {color: #FFFFFF}
+a.headerLink:visited {color: #FFFFFF}
+a.headerLink:hover {color: #FFFF00}
+a.headerLink:active {color: #FFF00}
+
+.header {
+    background-color:blue;
+    color:white;
+}
+.odd {
+    background-color:white;
+    color:black;
+}
+
+.even {
+    background-color:yellow;
+    color:black;
+}
+
+
